@@ -1,5 +1,5 @@
-# Huertas_Earbuds Homework Part 3 
-This is a repo for the Earbuds Homework Part 3 
+# Huertas_Earbuds Homework Part 2 
+This is a repo for the Earbuds Homework Part 2
 
 ## Installation
 
