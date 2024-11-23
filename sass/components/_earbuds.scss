@@ -1,0 +1,21 @@
+
+#scroll-con {
+    width: 90%; 
+    max-width: 1200px; 
+    height: 100vh; 
+    max-height: 800px; 
+    background-color: #0a0a0a; 
+    display: block;
+    margin: auto; 
+    position: relative; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px; 
+    overflow: hidden; 
+
+    @media (max-width: 768px) {
+        width: 90%; 
+        height: 400px; 
+        max-width: 90%; 
+        max-height: 400px; 
+    }
+}
